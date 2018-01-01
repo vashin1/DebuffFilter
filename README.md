@@ -1,5 +1,7 @@
 # DebuffFilter - WoW 1.12 addOn
 
+**Note: You must remove -master from the folder after downloading or the addon will not be recognized by the client**
+
 An extension to filter buffs and target debuffs into a movable frame.
 
 Main addon command is /dfilter  (shows all commands)
